@@ -1,0 +1,18 @@
+{
+  "title": "DnD",
+  "id": "dnd",
+  "system": "dnd5e",
+  "download": "https://github.com/NamKhanhDO/DnDFoundry/releases/latest/download/dnd.zip"
+  "joinTheme": "default",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "systemVersion": "5.2.5",
+  "lastPlayed": "Sat May 30 2026 00:21:10 GMT+0700 (Indochina Time)",
+  "safeMode": false,
+  "playtime": 17824,
+  "description": "",
+  "flags": {}
+}
