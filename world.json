@@ -1,20 +1,17 @@
 {
-  "id": "dnd",
   "title": "DnD",
-  "description": "A Dungeons & Dragons 5e world for Foundry VTT.",
-  "version": "1.0.1",
-  "authors": [
-    {
-      "name": "Nam Khanh Do"
-    }
-  ],
+  "id": "dnd",
   "system": "dnd5e",
-  "systemVersion": "5.2.5",
-  "coreVersion": "14.363",
+  "joinTheme": "default",
+  "coreVersion": "13.351",
   "compatibility": {
     "minimum": "13",
-    "verified": "14.363"
+    "verified": "13.351"
   },
-  "manifest": "https://raw.githubusercontent.com/NamKhanhDO/DnDFoundry/main/world.json",
-  "download": "https://github.com/NamKhanhDO/DnDFoundry/releases/latest/download/dnd.zip"
+  "systemVersion": "5.2.5",
+  "lastPlayed": "Sat May 30 2026 00:21:10 GMT+0700 (Indochina Time)",
+  "safeMode": false,
+  "playtime": 17824,
+  "description": "",
+  "flags": {}
 }
