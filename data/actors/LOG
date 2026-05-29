@@ -1,0 +1,38 @@
+2026/05/30-00:21:07.634 38d4 Recovering log #1133
+2026/05/30-00:21:07.635 38d4 Level-0 table #1135: started
+2026/05/30-00:21:07.641 38d4 Level-0 table #1135: 604109 bytes OK
+2026/05/30-00:21:07.643 38d4 Delete type=0 #1133
+2026/05/30-00:21:07.643 38d4 Delete type=3 #1132
+2026/05/30-00:21:07.717 c78 Compacting 1@0 + 0@1 files
+2026/05/30-00:21:07.722 c78 Generated table #1137@0: 59 keys, 99064 bytes
+2026/05/30-00:21:07.730 c78 Generated table #1138@0: 3 keys, 1518 bytes
+2026/05/30-00:21:07.730 c78 Compacted 1@0 + 0@1 files => 100582 bytes
+2026/05/30-00:21:07.731 c78 compacted to: files[ 0 2 13 0 0 0 0 ]
+2026/05/30-00:21:08.498 c78 Compacting 1@1 + 8@2 files
+2026/05/30-00:21:08.524 c78 Generated table #1139@1: 479 keys, 2117095 bytes
+2026/05/30-00:21:08.550 c78 Generated table #1140@1: 495 keys, 2119649 bytes
+2026/05/30-00:21:08.576 c78 Generated table #1141@1: 494 keys, 2118677 bytes
+2026/05/30-00:21:08.606 c78 Generated table #1142@1: 1543 keys, 2129170 bytes
+2026/05/30-00:21:08.716 c78 Generated table #1143@1: 1684 keys, 2128214 bytes
+2026/05/30-00:21:08.821 c78 Generated table #1144@1: 1611 keys, 2127684 bytes
+2026/05/30-00:21:08.931 c78 Generated table #1145@1: 1745 keys, 2129176 bytes
+2026/05/30-00:21:09.027 c78 Generated table #1146@1: 1536 keys, 2127530 bytes
+2026/05/30-00:21:09.030 c78 Generated table #1147@1: 14 keys, 15465 bytes
+2026/05/30-00:21:09.030 c78 Compacted 1@1 + 8@2 files => 17012660 bytes
+2026/05/30-00:21:09.030 c78 compacted to: files[ 0 1 14 0 0 0 0 ]
+2026/05/30-00:21:09.030 c78 Delete type=2 #1119
+2026/05/30-00:21:09.031 c78 Delete type=2 #1120
+2026/05/30-00:21:09.031 c78 Delete type=2 #1121
+2026/05/30-00:21:09.032 c78 Delete type=2 #1122
+2026/05/30-00:21:09.032 c78 Delete type=2 #1123
+2026/05/30-00:21:09.032 c78 Delete type=2 #1124
+2026/05/30-00:21:09.032 c78 Delete type=2 #1125
+2026/05/30-00:21:09.033 c78 Delete type=2 #1126
+2026/05/30-00:21:09.033 c78 Delete type=2 #1135
+2026/05/30-00:21:09.033 c78 Delete type=2 #1137
+2026/05/30-00:21:17.912 c78 Compacting 1@1 + 1@2 files
+2026/05/30-00:21:17.968 c78 Generated table #1148@1: 4073 keys, 1834630 bytes
+2026/05/30-00:21:17.968 c78 Compacted 1@1 + 1@2 files => 1834630 bytes
+2026/05/30-00:21:17.969 c78 compacted to: files[ 0 0 14 0 0 0 0 ]
+2026/05/30-00:21:17.969 c78 Delete type=2 #1131
+2026/05/30-00:21:17.969 c78 Delete type=2 #1138
