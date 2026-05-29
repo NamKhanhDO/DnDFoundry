@@ -1,48 +1,19 @@
 {
   "id": "dnd",
-  "title": "Harmonia: Ashes of Draconia",
-  "type": "world",
-  "description": "A dark fantasy D&D 5e campaign centered on the expansionist Harmonian Empire, the fallen Dragonborn nation of Draconia, and the vengeance of Valerion Kragros. The story follows Kragros and Byakko as they move from exile-born wanderers to war-shaping heroes, confronting imperial conquest, anti-sorcerer fanaticism, eldritch horror, and the legacy of a destroyed homeland.",
+  "title": "DnD",
+  "description": "A Dungeons & Dragons 5e world for Foundry VTT.",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Nam Khanh Do"
     }
   ],
-  "version": "1.0.0",
   "system": "dnd5e",
-  "coreVersion": "13.351",
+  "systemVersion": "5.2.5",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
   },
-  "systemVersion": "5.2.5",
-  "joinTheme": "default",
-  "media": [],
-  "safeMode": false,
-  "flags": {
-    "harmonia-ashes-of-draconia": {
-      "settingTags": [
-        "dark fantasy",
-        "war campaign",
-        "fallen homeland",
-        "imperial invasion",
-        "anti-sorcerer empire",
-        "eldritch horror"
-      ],
-      "majorFactions": [
-        "Harmonian Empire",
-        "Draconian Exiles",
-        "Dwarven Port Alliance",
-        "Church of Harmonia",
-        "Sorcerer Survivors"
-      ],
-      "mainCharacters": [
-        "Valerion Kragros",
-        "Byakko",
-        "Nyssa",
-        "Callan",
-        "Selene"
-      ]
-    }
-  }
+  "manifest": "https://raw.githubusercontent.com/NamKhanhDO/dnd/main/dnd/world.json",
+  "download": "https://github.com/NamKhanhDO/dnd/releases/latest/download/dnd.zip"
 }
