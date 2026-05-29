@@ -14,6 +14,6 @@
     "minimum": "13",
     "verified": "13.351"
   },
-  "manifest": "https://raw.githubusercontent.com/NamKhanhDO/dnd/main/dnd/world.json",
-  "download": "https://github.com/NamKhanhDO/dnd/releases/latest/download/dnd.zip"
+  "manifest": "https://raw.githubusercontent.com/NamKhanhDO/DnDFoundry/main/world.json",
+  "download": "https://github.com/NamKhanhDO/DnDFoundry/releases/latest/download/dnd.zip"
 }
