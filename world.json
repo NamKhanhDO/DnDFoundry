@@ -2,7 +2,7 @@
   "id": "dnd",
   "title": "DnD",
   "description": "A Dungeons & Dragons 5e world for Foundry VTT.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Nam Khanh Do"
@@ -10,6 +10,7 @@
   ],
   "system": "dnd5e",
   "systemVersion": "5.2.5",
+  "coreVersion": "13.351",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
