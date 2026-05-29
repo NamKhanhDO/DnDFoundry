@@ -2,6 +2,7 @@
   "title": "DnD",
   "id": "dnd",
   "system": "dnd5e",
+  "download": "https://github.com/NamKhanhDO/DnDFoundry/releases/latest/download/dnd.zip"
   "joinTheme": "default",
   "coreVersion": "13.351",
   "compatibility": {
